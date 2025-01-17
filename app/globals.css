@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Caramello';
+    src: url('../fonts/Caramello\ Free.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
