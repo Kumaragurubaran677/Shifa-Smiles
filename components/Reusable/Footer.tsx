@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
           <div className="space-y-5 lg:border-r lg:border-white/20 lg:pr-8">
             <h2 className="text-2xl font-semibold">Address</h2>
-            <p className="text-base leading-relaxed">1234 Main St, Anytown, India 12345</p>
+            <p className="text-base leading-relaxed">Currently we are only available Virtually!</p>
           </div>
 
           <div className="space-y-5 lg:border-r lg:border-white/20 lg:pr-8">
