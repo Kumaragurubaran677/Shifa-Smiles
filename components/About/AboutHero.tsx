@@ -16,7 +16,7 @@ const AboutHero = () => {
       </div>
 
       {/* Content Section */}
-      <div className="w-full md:w-[60%] lg:w-[40%] text-center flex flex-col items-center justify-center gap-6 p-4">
+      <div className="w-full md:w-[60%] lg:w-[40%] text-center flex flex-col items-center justify-center gap-6 p-4 text-center">
         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold">
           Welcome to <br />
           <span className="text-[#E82A4C]">Shifa & Smiles ❤️</span>
