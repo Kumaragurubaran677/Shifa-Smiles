@@ -129,7 +129,7 @@ const Page = () => {
                 <span>Buy Now</span>
               </Link>
               <Link
-                href="/"
+                href="https://wa.me/9384772182"
                 className="flex-1 flex items-center justify-center bg-[#E82A4C] text-white py-4 px-6 rounded-full hover:bg-[#d1263f] transition-all duration-300 shadow-sm hover:shadow-md"
               >
                 Customize
