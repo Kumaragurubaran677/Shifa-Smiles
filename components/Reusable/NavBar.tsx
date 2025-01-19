@@ -73,7 +73,7 @@ const NavBar = () => {
                 <Link href="/testimonials" className="hover:text-[#E82A4C]">
                   Testimonials
                 </Link>
-                <Link href="https://wa.me/9597028220" className="hover:text-[#E82A4C]">
+                <Link href="https://wa.me/9384772182" className="hover:text-[#E82A4C]">
                   Contact
                 </Link>
               </div>
